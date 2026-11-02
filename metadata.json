@@ -1,0 +1,8 @@
+{
+  "name": "Remix Alpine Twilight Image Studio",
+  "description": "High-resolution alpine mountain twilight landscape viewer, wallpaper previewer, and visual inspector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
